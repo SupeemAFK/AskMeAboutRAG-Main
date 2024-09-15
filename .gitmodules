@@ -1,0 +1,6 @@
+[submodule "askmeaboutrag-archive"]
+	path = askmeaboutrag-archive
+	url = https://github.com/beambeambeam/askmeaboutrag-archive.git
+[submodule "AskmeAboutRAG"]
+	path = AskmeAboutRAG
+	url = https://github.com/SupeemAFK/AskmeAboutRAG.git
